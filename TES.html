@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NIAR</title>
+    <link rel="stylesheet" href="style.css"/>
+<body>
+    <div class="container">
+    <table>
+        <!-- NAVIGATION BAR -->
+        <div class="navbar-container">
+            <ul class="ul-navbar">
+                <li class="li-navbar">
+                    <a href= "#" class="a-navbar">HOME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="about.html" class="a-navbar">ABOUT ME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="contact.html" class="a-navbar">CONTACT ME</a>
+                </li>
+            </ul>
+        </div>
+        <!-- NAVIGATION BAR SELESAI -->
+        
+        <!-- CONTENT 1 -->
+        <div class="content-container">
+            <a href="https://www.instagram.com/yuniarti.ssmit4_/" class="a-content">
+                <img src="instagram1.png" class="img-content"/>
+                <p>follow akun saya!!!</p>
+            </a>
+            
+        </div>
+        <!-- CONTENT SELESAI -->
+
+        <!-- FOOTER -->
+        <div class="footer-container">
+            <h1 class="h1-footer"> WEB INI DI BUAT SEKEDAR MAIN MAIN SAJA</h1>
+        </div>
+        <!-- FOOTER SELESAI -->
+
+    </table>
+</div>
+</body>
+</head>
+</html>
